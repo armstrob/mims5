@@ -42,7 +42,6 @@ var app = {
 };
 
 function doScan() {
-    alert('hello');
     cordova.plugins.barcodeScanner.scan(
         function (result) {
             var myElement = document.querySelector("#scanResult");
