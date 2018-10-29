@@ -42,6 +42,7 @@ var app = {
 };
 
 function doScan() {
+    alert('hello');
     cordova.plugins.barcodeScanner.scan(
         function (result) {
             var myElement = document.querySelector("#scanResult");
@@ -1429,4 +1430,4 @@ var bobbinAry = [
 'N0P8037TC',
 'M0P806UEW',
 'M0P806UV6'
-]
+];
