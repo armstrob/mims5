@@ -72,8 +72,7 @@ function doScan() {
     );
 }
 
-var bobbinAry = [
-    'ABCDEFG',    
+var bobbinAry = [   
    'M0P805TTT',
 'M0P805YHB',
 'M0P806FMH',
