@@ -72,6 +72,8 @@ function doScan() {
     );
 }
 
+/* 11/12/12019 */   
+
 var bobbinAry = [
     'M0W200HLH',
     'M0W200I1H',
