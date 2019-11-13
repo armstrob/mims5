@@ -72,7 +72,7 @@ function doScan() {
     );
 }
 
-/* 11/12/12019 */   
+/* 11/13/12019 */   
 
 var bobbinAry = [
     'M0W200HLH',
