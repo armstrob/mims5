@@ -1983,5 +1983,6 @@ var bobbinAry = [
 'N0U400AW0',
 'N0U400AXC',
 'N0U400B0W',
-'N0U400B1C'
+'N0U400B1C',
+'end'
 ];
